@@ -198,6 +198,9 @@ void dns_run() {
 }
 
 int main() {
+
+    
+    printf("test by hz");
     log_file = stderr;
     dns_run();
     return 0;
