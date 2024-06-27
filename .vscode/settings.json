@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "convert.h": "c",
+        "utils.h": "c"
+    }
+}
